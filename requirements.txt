@@ -4,8 +4,10 @@ numpy==1.23.5
 matplotlib==3.7.1
 seaborn==0.12.2
 missingno==0.5.2
-scikit-learn==1.2.0
 xgboost==1.7.4
 prophet==1.1.1
 joblib==1.2.0
+streamlit
+setuptools
 scikit-learn>=1.3.0
+
