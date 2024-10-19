@@ -9,4 +9,4 @@ prophet
 joblib
 setuptools>=67.0.0
 scikit-learn
-
+plotly
